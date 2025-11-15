@@ -1,0 +1,1131 @@
+[
+  {
+    "id": 1,
+    "name": "Rice (Basmati)",
+    "brand": "Daawat",
+    "original_price": 100,
+    "discount_price": 95,
+    "quantity": "5 kg",
+    "available_quantities": [
+      "1 kg",
+      "2 kg",
+      "5 kg",
+      "10 kg"
+    ],
+    "facts": {
+      "type": "Long-grain",
+      "feature": "Aromatic basmati",
+      "quality": "Aged premium grains"
+    },
+    "description": "High quality Rice (Basmati) suitable for daily use.",
+    "images": [
+      "groc/1.jpeg",
+      "groc/2.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wheat Flour (Atta)",
+    "brand": "Aashirvaad",
+    "original_price": 101,
+    "discount_price": 96,
+    "quantity": "5 kg",
+    "available_quantities": [
+      "1 kg",
+      "2 kg",
+      "5 kg",
+      "10 kg"
+    ],
+    "facts": {
+      "type": "Whole wheat",
+      "feature": "High fiber",
+      "quality": "Stone-ground quality"
+    },
+    "description": "High quality Wheat Flour (Atta) suitable for daily use.",
+    "images": [
+      "groc/3.jpeg",
+      "groc/4.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sugar",
+    "brand": "Madhur",
+    "original_price": 102,
+    "discount_price": 97,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg",
+      "5 kg"
+    ],
+    "facts": {
+      "type": "Refined",
+      "feature": "Sulphur-free",
+      "quality": "Fine crystal quality"
+    },
+    "description": "High quality Sugar suitable for daily use.",
+    "images": [
+      "groc/5.jpeg",
+      "groc/6.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Salt",
+    "brand": "Tata",
+    "original_price": 103,
+    "discount_price": 98,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Iodized",
+      "feature": "Pure quality",
+      "quality": "Fine granules"
+    },
+    "description": "High quality Salt suitable for daily use.",
+    "images": [
+      "groc/7.jpeg",
+      "groc/8.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cooking Oil",
+    "brand": "Fortune",
+    "original_price": 104,
+    "discount_price": 99,
+    "quantity": "1 L",
+    "available_quantities": [
+      "500 ml",
+      "1 L",
+      "2 L",
+      "5 L"
+    ],
+    "facts": {
+      "type": "Sunflower oil",
+      "feature": "Refined",
+      "quality": "Light and healthy"
+    },
+    "description": "High quality Cooking Oil suitable for daily use.",
+    "images": [
+      "groc/9.jpeg",
+      "groc/10.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ghee",
+    "brand": "Amul",
+    "original_price": 105,
+    "discount_price": 100,
+    "quantity": "1 L",
+    "available_quantities": [
+      "200 ml",
+      "500 ml",
+      "1 L"
+    ],
+    "facts": {
+      "type": "Cow ghee",
+      "feature": "Rich aroma",
+      "quality": "Premium clarified butter"
+    },
+    "description": "High quality Ghee suitable for daily use.",
+    "images": [
+      "groc/11.jpeg",
+      "groc/12.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Milk",
+    "brand": "Amul",
+    "original_price": 106,
+    "discount_price": 101,
+    "quantity": "1 L",
+    "available_quantities": [
+      "200 ml",
+      "500 ml",
+      "1 L"
+    ],
+    "facts": {
+      "type": "Toned milk",
+      "feature": "Fresh",
+      "quality": "High purity milk"
+    },
+    "description": "High quality Milk suitable for daily use.",
+    "images": [
+      "groc/13.jpeg",
+      "groc/14.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Eggs",
+    "brand": "Local",
+    "original_price": 107,
+    "discount_price": 102,
+    "quantity": "12 pcs",
+    "available_quantities": [
+      "6 pcs",
+      "12 pcs",
+      "30 pcs"
+    ],
+    "facts": {
+      "type": "Farm eggs",
+      "feature": "High protein",
+      "quality": "Fresh daily"
+    },
+    "description": "High quality Eggs suitable for daily use.",
+    "images": [
+      "groc/15.jpeg",
+      "groc/16.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Bread",
+    "brand": "Britannia",
+    "original_price": 108,
+    "discount_price": 103,
+    "quantity": "400 g",
+    "available_quantities": [
+      "200 g",
+      "400 g",
+      "600 g"
+    ],
+    "facts": {
+      "type": "White bread",
+      "feature": "Soft texture",
+      "quality": "Fresh bake"
+    },
+    "description": "High quality Bread suitable for daily use.",
+    "images": [
+      "groc/17.jpeg",
+      "groc/18.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tea",
+    "brand": "Tata Tea",
+    "original_price": 109,
+    "discount_price": 104,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "100 g",
+      "250 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "CTC tea",
+      "feature": "Strong aroma",
+      "quality": "Premium dust blend"
+    },
+    "description": "High quality Tea suitable for daily use.",
+    "images": [
+      "groc/19.jpeg",
+      "groc/20.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Coffee",
+    "brand": "Nescaf\u00e9",
+    "original_price": 110,
+    "discount_price": 105,
+    "quantity": "200 g",
+    "available_quantities": [
+      "50 g",
+      "100 g",
+      "200 g"
+    ],
+    "facts": {
+      "type": "Instant coffee",
+      "feature": "Rich taste",
+      "quality": "Premium beans"
+    },
+    "description": "High quality Coffee suitable for daily use.",
+    "images": [
+      "groc/21.jpeg",
+      "groc/22.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Toor Dal",
+    "brand": "Tata Sampann",
+    "original_price": 111,
+    "discount_price": 106,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg",
+      "2 kg"
+    ],
+    "facts": {
+      "type": "Lentils",
+      "feature": "High protein",
+      "quality": "Unpolished quality"
+    },
+    "description": "High quality Toor Dal suitable for daily use.",
+    "images": [
+      "groc/23.jpeg",
+      "groc/24.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Moong Dal",
+    "brand": "Tata Sampann",
+    "original_price": 112,
+    "discount_price": 107,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Lentils",
+      "feature": "High protein",
+      "quality": "Unpolished quality"
+    },
+    "description": "High quality Moong Dal suitable for daily use.",
+    "images": [
+      "groc/25.jpeg",
+      "groc/26.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chana Dal",
+    "brand": "Fortune",
+    "original_price": 113,
+    "discount_price": 108,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Lentils",
+      "feature": "High protein",
+      "quality": "Unpolished quality"
+    },
+    "description": "High quality Chana Dal suitable for daily use.",
+    "images": [
+      "groc/27.jpeg",
+      "groc/28.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Urad Dal",
+    "brand": "Organic Tattva",
+    "original_price": 114,
+    "discount_price": 109,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Lentils",
+      "feature": "High protein",
+      "quality": "Unpolished quality"
+    },
+    "description": "High quality Urad Dal suitable for daily use.",
+    "images": [
+      "groc/29.jpeg",
+      "groc/30.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chickpeas",
+    "brand": "Fortune",
+    "original_price": 115,
+    "discount_price": 110,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Whole pulse",
+      "feature": "High fiber",
+      "quality": "Premium grade"
+    },
+    "description": "High quality Chickpeas suitable for daily use.",
+    "images": [
+      "groc/31.jpeg",
+      "groc/32.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kidney Beans (Rajma)",
+    "brand": "Tata",
+    "original_price": 116,
+    "discount_price": 111,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Red kidney beans",
+      "feature": "Soft texture",
+      "quality": "High-grade Himalayan"
+    },
+    "description": "High quality Kidney Beans (Rajma) suitable for daily use.",
+    "images": [
+      "groc/33.jpeg",
+      "groc/34.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Black Gram",
+    "brand": "Organic Tattva",
+    "original_price": 117,
+    "discount_price": 112,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Whole pulse",
+      "feature": "High fiber",
+      "quality": "Premium grade"
+    },
+    "description": "High quality Black Gram suitable for daily use.",
+    "images": [
+      "groc/35.jpeg",
+      "groc/36.jpeg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Oats",
+    "brand": "Quaker",
+    "original_price": 118,
+    "discount_price": 113,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Whole grain",
+      "feature": "High fiber",
+      "quality": "Premium rolled oats"
+    },
+    "description": "High quality Oats suitable for daily use.",
+    "images": [
+      "groc/37.jpeg",
+      "groc/38.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Cornflakes",
+    "brand": "Kellogg's",
+    "original_price": 119,
+    "discount_price": 114,
+    "quantity": "500 g",
+    "available_quantities": [
+      "200 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Breakfast cereal",
+      "feature": "Crunchy",
+      "quality": "Golden flakes"
+    },
+    "description": "High quality Cornflakes suitable for daily use.",
+    "images": [
+      "groc/39.jpeg",
+      "groc/40.jpeg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pasta",
+    "brand": "Barilla",
+    "original_price": 120,
+    "discount_price": 115,
+    "quantity": "500 g",
+    "available_quantities": [
+      "250 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Durum wheat",
+      "feature": "Non-sticky",
+      "quality": "Italian grade"
+    },
+    "description": "High quality Pasta suitable for daily use.",
+    "images": [
+      "groc/41.jpeg",
+      "groc/42.jpeg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Noodles",
+    "brand": "Maggi",
+    "original_price": 121,
+    "discount_price": 116,
+    "quantity": "12 packs",
+    "available_quantities": [
+      "1 pack",
+      "4 packs",
+      "12 packs"
+    ],
+    "facts": {
+      "type": "Instant noodles",
+      "feature": "Masala flavor",
+      "quality": "Fast cooking"
+    },
+    "description": "High quality Noodles suitable for daily use.",
+    "images": [
+      "groc/43.jpeg",
+      "groc/44.jpeg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Poha",
+    "brand": "Tata Sampann",
+    "original_price": 122,
+    "discount_price": 117,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Flattened rice",
+      "feature": "Lightweight",
+      "quality": "Premium flakes"
+    },
+    "description": "High quality Poha suitable for daily use.",
+    "images": [
+      "groc/45.jpeg",
+      "groc/46.jpeg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Suji (Rava)",
+    "brand": "MTR",
+    "original_price": 123,
+    "discount_price": 118,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Semolina",
+      "feature": "Fine texture",
+      "quality": "High quality"
+    },
+    "description": "High quality Suji (Rava) suitable for daily use.",
+    "images": [
+      "groc/47.jpeg",
+      "groc/48.jpeg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Vermicelli",
+    "brand": "Bambino",
+    "original_price": 124,
+    "discount_price": 119,
+    "quantity": "900 g",
+    "available_quantities": [
+      "500 g",
+      "900 g"
+    ],
+    "facts": {
+      "type": "Roasted sevai",
+      "feature": "Non-sticky",
+      "quality": "Premium roast"
+    },
+    "description": "High quality Vermicelli suitable for daily use.",
+    "images": [
+      "groc/49.jpeg",
+      "groc/50.jpeg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Milk Powder",
+    "brand": "Amulya",
+    "original_price": 125,
+    "discount_price": 120,
+    "quantity": "500 g",
+    "available_quantities": [
+      "200 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Dairy powder",
+      "feature": "Creamy",
+      "quality": "Premium blend"
+    },
+    "description": "High quality Milk Powder suitable for daily use.",
+    "images": [
+      "groc/51.jpeg",
+      "groc/52.jpeg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Curd",
+    "brand": "Amul",
+    "original_price": 126,
+    "discount_price": 121,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "200 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Dahi",
+      "feature": "Thick texture",
+      "quality": "Fresh quality"
+    },
+    "description": "High quality Curd suitable for daily use.",
+    "images": [
+      "groc/53.jpeg",
+      "groc/54.jpeg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Paneer",
+    "brand": "Amul",
+    "original_price": 127,
+    "discount_price": 122,
+    "quantity": "200 g",
+    "available_quantities": [
+      "100 g",
+      "200 g",
+      "500 g"
+    ],
+    "facts": {
+      "type": "Cottage cheese",
+      "feature": "Soft texture",
+      "quality": "Premium milk"
+    },
+    "description": "High quality Paneer suitable for daily use.",
+    "images": [
+      "groc/55.jpeg",
+      "groc/56.jpeg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Cheese Slices",
+    "brand": "Amul",
+    "original_price": 128,
+    "discount_price": 123,
+    "quantity": "200 g",
+    "available_quantities": [
+      "100 g",
+      "200 g"
+    ],
+    "facts": {
+      "type": "Processed cheese",
+      "feature": "Melts easily",
+      "quality": "Creamy blend"
+    },
+    "description": "High quality Cheese Slices suitable for daily use.",
+    "images": [
+      "groc/57.jpeg",
+      "groc/58.jpeg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Butter",
+    "brand": "Amul",
+    "original_price": 129,
+    "discount_price": 124,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g",
+      "500 g"
+    ],
+    "facts": {
+      "type": "Dairy butter",
+      "feature": "Salted",
+      "quality": "Rich creamy"
+    },
+    "description": "High quality Butter suitable for daily use.",
+    "images": [
+      "groc/59.jpeg",
+      "groc/60.jpeg"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Jam",
+    "brand": "Kissan",
+    "original_price": 130,
+    "discount_price": 125,
+    "quantity": "500 g",
+    "available_quantities": [
+      "200 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Fruit spread",
+      "feature": "Mixed fruit",
+      "quality": "Premium sweetness"
+    },
+    "description": "High quality Jam suitable for daily use.",
+    "images": [
+      "groc/61.jpeg",
+      "groc/62.jpeg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Peanut Butter",
+    "brand": "Pintola",
+    "original_price": 131,
+    "discount_price": 126,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Nut butter",
+      "feature": "High protein",
+      "quality": "Smooth texture"
+    },
+    "description": "High quality Peanut Butter suitable for daily use.",
+    "images": [
+      "groc/63.jpeg",
+      "groc/64.jpeg"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Tomato Ketchup",
+    "brand": "Kissan",
+    "original_price": 132,
+    "discount_price": 127,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Tomato sauce",
+      "feature": "Thick",
+      "quality": "Rich tomato blend"
+    },
+    "description": "High quality Tomato Ketchup suitable for daily use.",
+    "images": [
+      "groc/65.jpeg",
+      "groc/66.jpeg"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Mayonnaise",
+    "brand": "Funfoods",
+    "original_price": 133,
+    "discount_price": 128,
+    "quantity": "250 g",
+    "available_quantities": [
+      "250 g",
+      "500 g"
+    ],
+    "facts": {
+      "type": "Eggless mayo",
+      "feature": "Creamy",
+      "quality": "Rich smooth texture"
+    },
+    "description": "High quality Mayonnaise suitable for daily use.",
+    "images": [
+      "groc/67.jpeg",
+      "groc/68.jpeg"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Cookies",
+    "brand": "Britannia Good Day",
+    "original_price": 134,
+    "discount_price": 129,
+    "quantity": "200 g",
+    "available_quantities": [
+      "100 g",
+      "200 g"
+    ],
+    "facts": {
+      "type": "Biscuits",
+      "feature": "Crunchy",
+      "quality": "Premium cashew"
+    },
+    "description": "High quality Cookies suitable for daily use.",
+    "images": [
+      "groc/69.jpeg",
+      "groc/70.jpeg"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Rusk",
+    "brand": "Britannia",
+    "original_price": 135,
+    "discount_price": 130,
+    "quantity": "300 g",
+    "available_quantities": [
+      "200 g",
+      "300 g"
+    ],
+    "facts": {
+      "type": "Rusk",
+      "feature": "Crispy",
+      "quality": "Perfect bake"
+    },
+    "description": "High quality Rusk suitable for daily use.",
+    "images": [
+      "groc/71.jpeg",
+      "groc/72.jpeg"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chips",
+    "brand": "Lays",
+    "original_price": 136,
+    "discount_price": 131,
+    "quantity": "90 g",
+    "available_quantities": [
+      "50 g",
+      "90 g",
+      "200 g"
+    ],
+    "facts": {
+      "type": "Potato chips",
+      "feature": "Flavored",
+      "quality": "Crispy texture"
+    },
+    "description": "High quality Chips suitable for daily use.",
+    "images": [
+      "groc/73.jpeg",
+      "groc/74.jpeg"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Pickles",
+    "brand": "Mother's Recipe",
+    "original_price": 137,
+    "discount_price": 132,
+    "quantity": "500 g",
+    "available_quantities": [
+      "200 g",
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Achar",
+      "feature": "Spicy",
+      "quality": "Traditional taste"
+    },
+    "description": "High quality Pickles suitable for daily use.",
+    "images": [
+      "groc/75.jpeg",
+      "groc/76.jpeg"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Papad",
+    "brand": "Lijjat",
+    "original_price": 138,
+    "discount_price": 133,
+    "quantity": "400 g",
+    "available_quantities": [
+      "200 g",
+      "400 g"
+    ],
+    "facts": {
+      "type": "Urad papad",
+      "feature": "Crispy",
+      "quality": "Handmade quality"
+    },
+    "description": "High quality Papad suitable for daily use.",
+    "images": [
+      "groc/77.jpeg",
+      "groc/78.jpeg"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Turmeric Powder",
+    "brand": "Everest",
+    "original_price": 139,
+    "discount_price": 134,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g"
+    ],
+    "facts": {
+      "type": "Spice",
+      "feature": "Bright yellow",
+      "quality": "High curcumin"
+    },
+    "description": "High quality Turmeric Powder suitable for daily use.",
+    "images": [
+      "groc/79.jpeg",
+      "groc/80.jpeg"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Red Chili Powder",
+    "brand": "Everest",
+    "original_price": 140,
+    "discount_price": 135,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g"
+    ],
+    "facts": {
+      "type": "Spice",
+      "feature": "Hot flavor",
+      "quality": "Fine grind"
+    },
+    "description": "High quality Red Chili Powder suitable for daily use.",
+    "images": [
+      "groc/81.jpeg",
+      "groc/82.jpeg"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Coriander Powder",
+    "brand": "Everest",
+    "original_price": 141,
+    "discount_price": 136,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g"
+    ],
+    "facts": {
+      "type": "Spice",
+      "feature": "Aromatic",
+      "quality": "Fresh ground"
+    },
+    "description": "High quality Coriander Powder suitable for daily use.",
+    "images": [
+      "groc/83.jpeg",
+      "groc/84.jpeg"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Garam Masala",
+    "brand": "MDH",
+    "original_price": 142,
+    "discount_price": 137,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g"
+    ],
+    "facts": {
+      "type": "Spice blend",
+      "feature": "Strong aroma",
+      "quality": "Premium spices"
+    },
+    "description": "High quality Garam Masala suitable for daily use.",
+    "images": [
+      "groc/85.jpeg",
+      "groc/86.jpeg"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Cumin Seeds",
+    "brand": "Everest",
+    "original_price": 143,
+    "discount_price": 138,
+    "quantity": "100 g",
+    "available_quantities": [
+      "50 g",
+      "100 g"
+    ],
+    "facts": {
+      "type": "Spice seeds",
+      "feature": "Aromatic",
+      "quality": "High purity"
+    },
+    "description": "High quality Cumin Seeds suitable for daily use.",
+    "images": [
+      "groc/87.jpeg",
+      "groc/88.jpeg"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Mustard Seeds",
+    "brand": "Tata",
+    "original_price": 144,
+    "discount_price": 139,
+    "quantity": "200 g",
+    "available_quantities": [
+      "100 g",
+      "200 g"
+    ],
+    "facts": {
+      "type": "Spice seeds",
+      "feature": "Strong",
+      "quality": "High oil content"
+    },
+    "description": "High quality Mustard Seeds suitable for daily use.",
+    "images": [
+      "groc/89.jpeg",
+      "groc/90.jpeg"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Chicken (Frozen)",
+    "brand": "Godrej",
+    "original_price": 145,
+    "discount_price": 140,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg",
+      "2 kg"
+    ],
+    "facts": {
+      "type": "Frozen chicken",
+      "feature": "Cleaned & cut",
+      "quality": "Fresh frozen"
+    },
+    "description": "High quality Chicken (Frozen) suitable for daily use.",
+    "images": [
+      "groc/91.jpeg",
+      "groc/92.jpeg"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Fish (Frozen)",
+    "brand": "ITC MasterChef",
+    "original_price": 146,
+    "discount_price": 141,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg"
+    ],
+    "facts": {
+      "type": "Frozen fish",
+      "feature": "Boneless",
+      "quality": "Premium catch"
+    },
+    "description": "High quality Fish (Frozen) suitable for daily use.",
+    "images": [
+      "groc/93.jpeg",
+      "groc/94.jpeg"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Frozen Paratha",
+    "brand": "Al Kabeer",
+    "original_price": 147,
+    "discount_price": 142,
+    "quantity": "600 g",
+    "available_quantities": [
+      "300 g",
+      "600 g"
+    ],
+    "facts": {
+      "type": "Ready-to-eat",
+      "feature": "Soft layered",
+      "quality": "Restaurant style"
+    },
+    "description": "High quality Frozen Paratha suitable for daily use.",
+    "images": [
+      "groc/95.jpeg",
+      "groc/96.jpeg"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Laundry Detergent",
+    "brand": "Surf Excel",
+    "original_price": 148,
+    "discount_price": 143,
+    "quantity": "1 kg",
+    "available_quantities": [
+      "500 g",
+      "1 kg",
+      "2 kg"
+    ],
+    "facts": {
+      "type": "Washing powder",
+      "feature": "Stain removal",
+      "quality": "High cleaning power"
+    },
+    "description": "High quality Laundry Detergent suitable for daily use.",
+    "images": [
+      "groc/97.jpeg",
+      "groc/98.jpeg"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Shampoo",
+    "brand": "Dove",
+    "original_price": 149,
+    "discount_price": 144,
+    "quantity": "340 ml",
+    "available_quantities": [
+      "100 ml",
+      "180 ml",
+      "340 ml",
+      "650 ml"
+    ],
+    "facts": {
+      "type": "Hair care",
+      "feature": "Smoothening",
+      "quality": "Premium formula"
+    },
+    "description": "High quality Shampoo suitable for daily use.",
+    "images": [
+      "groc/99.jpeg",
+      "groc/100.jpeg"
+    ]
+  }
+]
